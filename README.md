@@ -22,7 +22,7 @@
 ***
 
 ## Contact Me
-**Discord:** twnku#0001 or @t.id <br>
+**Discord:** @t.id <br>
 **Instagram:** @twnku
 <!--
 **tunkusalim/tunkusalim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
